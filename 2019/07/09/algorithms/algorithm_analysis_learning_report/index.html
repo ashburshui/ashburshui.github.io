@@ -1,0 +1,41 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> Algorithm Analysis, Learning Report · 無涯</title><meta name="description" content="Algorithm Analysis, Learning Report - ashburshui"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="https://ashburshui.github.io/atom.xml" title="無涯"><meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="無涯" type="application/atom+xml">
+</head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/favicon.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">Blog</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">Archive</a></li><li class="nav-list-item"><a href="/craft/" target="_self" class="nav-list-link">Craft</a></li><li class="nav-list-item"><a href="/caprice/" target="_self" class="nav-list-link">Caprice</a></li><li class="nav-list-item"><a href="/travel/" target="_self" class="nav-list-link">Travel</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">Algorithm Analysis, Learning Report</h1><div class="post-info">Jul 9, 2019</div><div class="post-content"><blockquote>
+<p>I need note this, by writing the mathematical formulas by hands, I can retain them. </p>
+</blockquote>
+<a id="more"></a>
+
+<p>The best way to master these materials is through analyzing the real problems, and think them repetitively.</p>
+<p>An illustration image of asymptotic notations involved in discussion.</p>
+<p><img src="/blog-images/asymptotic-notation.png" alt="Example"></p>
+<p>Here, I need review the three notations in the asymptotic analysis of algorithms,</p>
+<p>First, <code>$\Theta$</code> - notation</p>
+<p>Definition:</p>
+<p>$$\Theta(g(n)) = {f(n) : there;exist;positive;constants;c_{1},c_{2},and;n_{0};such;that\<br>0 \leq c_{1}g(n) \leq f(n) \leq c_{2}g(n);for;all;n \geq n_{0}}.$$</p>
+<p>Second, <code>$O$</code> - notation</p>
+<p>Definition:</p>
+<p>$$O(g(n)) = {f(n) : there;exist;positive;constants;c;and;n_{0};such;that\<br>0 \leq f(n) \leq cg(n);for;all;n \geq n_{0}}.$$</p>
+<p>Third, <code>$\Omega$</code> - notation</p>
+<p>Definition:</p>
+<p>$$\Omega(g(n)) = {f(n) : there;exist;positive;constants;c;and;n_{0};such;that\<br>0 \leq cg(n) \leq f(n);for;all;n \geq n_{0}}.$$</p>
+<p>Other notations in lectures,</p>
+<p>Fourth, <code>$o$</code> - notation</p>
+<p>Definition:</p>
+<p>$$o(g(n)) = {f(n) : for;any;positive;constant;c &gt; 0,;there;exists;a;constant;n_{0} &gt; 0;such;that\<br>0 \leq f(n) &lt; cg(n);for;all;n \geq n_{0}}.$$</p>
+<p>Another popular way to illustrate this,</p>
+<p>$$\lim_{x\to\infty} \frac{f(n)}{g(n)} = 0$$</p>
+<p>Fifth, <code>$\omega$</code> - notation</p>
+<p>Definition:</p>
+<p>$$\omega(g(n)) = {f(n) : for;any;positive;constant;c &gt; 0,;there;exists;a;constant;n_{0} &gt; 0;such;that\<br>0 \leq cg(n) &lt; f(n);for;all;n \geq n_{0}}.$$</p>
+<p>Another popular way to illustrate this,</p>
+<p>$$\lim_{x\to\infty} \frac{f(n)}{g(n)} = \infty$$</p>
+<p>Great way to draw an analogy between the asymptotic comparsion of two functions <code>$f$</code> and <code>$g$</code> and comparison of two real numbers <code>$a$</code> and <code>$b$</code>:</p>
+<p>$$<br>f(n) = \Theta(g(n));is;like;a = b,\<br>f(n) = O(g(n));is;like;a \leq b,\<br>f(n) = \Omega(g(n));is;like;a \geq b,\<br>f(n) = o(g(n));is;like;a &lt; b,\<br>f(n) = \omega(g(n));is;like;a &gt; b.<br>$$</p>
+</div></article></div></main><footer><div class="paginator"><a href="/2019/10/25/interview/self_check_card_algorithms/" class="prev">PREV</a><a href="/2018/06/09/general_foundation/linux_command_page/" class="next">NEXT</a></div><div id="disqus_thread"></div><script>var disqus_shortname = 'ashburshui-github-io';
+var disqus_identifier = '2019/07/09/algorithms/algorithm_analysis_learning_report/';
+var disqus_title = 'Algorithm Analysis, Learning Report';
+var disqus_url = 'https://ashburshui.github.io/2019/07/09/algorithms/algorithm_analysis_learning_report/';
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();</script><script id="dsq-count-scr" src="//ashburshui-github-io.disqus.com/count.js" async></script><div class="copyright"><p>© 2018 - 2020 <a href="https://ashburshui.github.io">ashburshui</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-136311539-1",'auto');ga('send','pageview');</script></body></html>
