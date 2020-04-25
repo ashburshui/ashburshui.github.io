@@ -1,9 +1,7 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> 15-213 Introduction to Computer Systems · 無涯</title><meta name="description" content="15-213 Introduction to Computer Systems - ashburshui"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="https://ashburshui.github.io/atom.xml" title="無涯"><meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="無涯" type="application/atom+xml">
-</head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/favicon.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">Blog</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">Archive</a></li><li class="nav-list-item"><a href="/craft/" target="_self" class="nav-list-link">Craft</a></li><li class="nav-list-item"><a href="/caprice/" target="_self" class="nav-list-link">Caprice</a></li><li class="nav-list-item"><a href="/travel/" target="_self" class="nav-list-link">Travel</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">15-213 Introduction to Computer Systems</h1><div class="post-info">Jan 20, 2018</div><div class="post-content"><blockquote>
-<p>Excellent opportunity to explore computer systems…</p>
+<!-- hexo-inject:begin --><!-- hexo-inject:end --></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/favicon.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">Blog</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">Archive</a></li><li class="nav-list-item"><a href="/craft/" target="_self" class="nav-list-link">Craft</a></li><li class="nav-list-item"><a href="/caprice/" target="_self" class="nav-list-link">Caprice</a></li><li class="nav-list-item"><a href="/travel/" target="_self" class="nav-list-link">Travel</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">15-213 Introduction to Computer Systems</h1><div class="post-info">Jan 20, 2018</div><div class="post-content"><blockquote>
+<!-- hexo-inject:begin --><!-- hexo-inject:end --><p>Excellent opportunity to explore computer systems…<br><a id="more"></a></p>
 </blockquote>
-<a id="more"></a>
-
 <p>Labs are the core of this class, at the meantime, I should also catch up with readings, remember the only way to learn system is through doing system.</p>
 <blockquote>
 <p><del>Chapter 1: A Tour of Computer Systems</del></p>
@@ -25,52 +23,60 @@
 <ul>
 <li>CPU与内存之间的各级cache，由于访问时间的限制，完全由硬件电路实现，其实就是一个硬件哈希表</li>
 </ul>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left">No.</th>
-<th align="left">Concept</th>
+<th style="text-align:left">No.</th>
+<th style="text-align:left">Concept</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">1</td>
-<td align="left">A block is a fixed-sized packet of information that moves back and forth between a cache and main memory (or a lower-level cache).</td>
+<tbody>
+<tr>
+<td style="text-align:left">1</td>
+<td style="text-align:left">A block is a fixed-sized packet of information that moves back and forth between a cache and main memory (or a lower-level cache).</td>
 </tr>
 <tr>
-<td align="left">2</td>
-<td align="left">A line is a container in a cache that stores a block, as well as other information such as the valid bit and the tag bits.</td>
+<td style="text-align:left">2</td>
+<td style="text-align:left">A line is a container in a cache that stores a block, as well as other information such as the valid bit and the tag bits.</td>
 </tr>
 <tr>
-<td align="left">3</td>
-<td align="left">A set is a collection of one or more lines. Sets in direct-mapped caches consist of a single line. Sets in set associative and fully associative caches consist of multiple lines.</td>
+<td style="text-align:left">3</td>
+<td style="text-align:left">A set is a collection of one or more lines. Sets in direct-mapped caches consist of a single line. Sets in set associative and fully associative caches consist of multiple lines.</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <blockquote>
 <p><strong>Chapter 7: Linking</strong></p>
 </blockquote>
 <ul>
 <li>区分<code>weak symbol</code>与<code>strong symbol</code>，这会引起很难发现的bug</li>
 </ul>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left">No.</th>
-<th align="left">Rule</th>
+<th style="text-align:left">No.</th>
+<th style="text-align:left">Rule</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">1</td>
-<td align="left">Multiple strong symbols are not allowed</td>
+<tbody>
+<tr>
+<td style="text-align:left">1</td>
+<td style="text-align:left">Multiple strong symbols are not allowed</td>
 </tr>
 <tr>
-<td align="left">2</td>
-<td align="left">Given a strong symbol and multiple weak symbols, choose the strong symbol</td>
+<td style="text-align:left">2</td>
+<td style="text-align:left">Given a strong symbol and multiple weak symbols, choose the strong symbol</td>
 </tr>
 <tr>
-<td align="left">3</td>
-<td align="left">Given multiple weak symbols, choose any of the weak symbols</td>
+<td style="text-align:left">3</td>
+<td style="text-align:left">Given multiple weak symbols, choose any of the weak symbols</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <ul>
 <li>链接器的主要作用：<code>symbol resolution</code>与<code>relocation</code></li>
 </ul>
@@ -80,64 +86,72 @@
 <ul>
 <li>异常控制流，分类与梳理</li>
 </ul>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left">Class</th>
-<th align="left">Cause</th>
-<th align="left">Async/Sync</th>
-<th align="left">Return behavior</th>
+<th style="text-align:left">Class</th>
+<th style="text-align:left">Cause</th>
+<th style="text-align:left">Async/Sync</th>
+<th style="text-align:left">Return behavior</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">Interrupt</td>
-<td align="left">Signal from I/O device</td>
-<td align="left">Async</td>
-<td align="left">Always returns to next instruction</td>
+<tbody>
+<tr>
+<td style="text-align:left">Interrupt</td>
+<td style="text-align:left">Signal from I/O device</td>
+<td style="text-align:left">Async</td>
+<td style="text-align:left">Always returns to next instruction</td>
 </tr>
 <tr>
-<td align="left">Trap</td>
-<td align="left">Intentional exception</td>
-<td align="left">Sync</td>
-<td align="left">Always returns to next instruction</td>
+<td style="text-align:left">Trap</td>
+<td style="text-align:left">Intentional exception</td>
+<td style="text-align:left">Sync</td>
+<td style="text-align:left">Always returns to next instruction</td>
 </tr>
 <tr>
-<td align="left">Fault</td>
-<td align="left">Potentially recoverable error</td>
-<td align="left">Sync</td>
-<td align="left">Might return to current instruction</td>
+<td style="text-align:left">Fault</td>
+<td style="text-align:left">Potentially recoverable error</td>
+<td style="text-align:left">Sync</td>
+<td style="text-align:left">Might return to current instruction</td>
 </tr>
 <tr>
-<td align="left">Abort</td>
-<td align="left">Nonrecoverable error</td>
-<td align="left">Sync</td>
-<td align="left">Never returns</td>
+<td style="text-align:left">Abort</td>
+<td style="text-align:left">Nonrecoverable error</td>
+<td style="text-align:left">Sync</td>
+<td style="text-align:left">Never returns</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <ul>
 <li>区分概念：parallel flows与concurrent flows，前者是后者的子集</li>
 <li>梳理概念：进程的若干状态</li>
 </ul>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left">Status</th>
-<th align="left">Description</th>
+<th style="text-align:left">Status</th>
+<th style="text-align:left">Description</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">Running</td>
-<td align="left">The process is either executing on the CPU or is waiting to be executed and will eventually be scheduled by the kernel</td>
+<tbody>
+<tr>
+<td style="text-align:left">Running</td>
+<td style="text-align:left">The process is either executing on the CPU or is waiting to be executed and will eventually be scheduled by the kernel</td>
 </tr>
 <tr>
-<td align="left">Stopped</td>
-<td align="left">The execution of the process is suspended and will not be scheduled</td>
+<td style="text-align:left">Stopped</td>
+<td style="text-align:left">The execution of the process is suspended and will not be scheduled</td>
 </tr>
 <tr>
-<td align="left">Terminated</td>
-<td align="left">The process is stopped permanently</td>
+<td style="text-align:left">Terminated</td>
+<td style="text-align:left">The process is stopped permanently</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <ul>
 <li>僵尸进程：<code>a terminated process that has not yet been reaped is called a zombie</code> </li>
 <li>信号量理解：<ul>
@@ -163,22 +177,26 @@
 <ul>
 <li>理解Linux的I/O层次：内核提供什么接口？用户态利用内核接口可以额外做哪些事情？</li>
 </ul>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left">Class</th>
-<th align="left">Content</th>
+<th style="text-align:left">Class</th>
+<th style="text-align:left">Content</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">High-Level</td>
-<td align="left">Standard I/O functions are implemented “on top of” (using) the Unix I/O functions</td>
+<tbody>
+<tr>
+<td style="text-align:left">High-Level</td>
+<td style="text-align:left">Standard I/O functions are implemented “on top of” (using) the Unix I/O functions</td>
 </tr>
 <tr>
-<td align="left">Low-Level</td>
-<td align="left">Unix I/O is implemented in the operating system kernel</td>
+<td style="text-align:left">Low-Level</td>
+<td style="text-align:left">Unix I/O is implemented in the operating system kernel</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <ul>
 <li>思考一下<code>short counts问题</code>为什么会发生？</li>
 <li>理解linux内核如何维护open file，这跟file share关系密切</li>
@@ -192,4 +210,4 @@ var disqus_url = 'https://ashburshui.github.io/2018/01/20/curriculums/15_213_int
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();</script><script id="dsq-count-scr" src="//ashburshui-github-io.disqus.com/count.js" async></script><div class="copyright"><p>© 2018 - 2020 <a href="https://ashburshui.github.io">ashburshui</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-136311539-1",'auto');ga('send','pageview');</script></body></html>
+})();</script><script id="dsq-count-scr" src="//ashburshui-github-io.disqus.com/count.js" async></script><div class="copyright"><p>© 2018 - 2020 <a href="https://ashburshui.github.io">ashburshui</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-136311539-1",'auto');ga('send','pageview');</script><!-- hexo-inject:begin --><!-- hexo-inject:end --></body></html>
