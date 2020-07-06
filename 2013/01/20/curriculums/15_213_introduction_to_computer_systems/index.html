@@ -16,9 +16,12 @@
 <li>Think about how to implement XOR: <code>x ^ y = (x &amp; ~y) | (~x &amp; y)</code>, if only permit using <code>&amp;, ~</code>, how about the solution?</li>
 </ul>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">bitXor</span><span class="params">(<span class="keyword">int</span> x, <span class="keyword">int</span> y)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">int</span> a = x &amp; y;</span><br><span class="line">    <span class="keyword">int</span> b = ~x &amp; ~y;</span><br><span class="line">    <span class="keyword">return</span> ~a &amp; ~b;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">short sx = <span class="number">-12345</span>;</span><br><span class="line"><span class="keyword">unsigned</span> uy = sx;</span><br><span class="line"></span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"uy = %u:\t"</span>, uy);</span><br><span class="line">show_bytes((byte_pointer) &amp;uy, <span class="keyword">sizeof</span>(<span class="keyword">unsigned</span>));</span><br></pre></td></tr></table></figure>
 <ul>
 <li>将小范围有符号数转为大范围无符号数时，C标准要求先改变范围，再改变符号！</li>
 <li>How C language treat that the number convertion from small range to big range?</li>
+<li>逻辑运算关系 <strong>x ^ y = (x &amp; ~y) | (~x &amp; y)</strong></li>
+<li>浮点数如何在计算机中表示？科学计算需要注意什么？</li>
 </ul>
 <ul>
 <li>CPU与内存之间的各级cache，由于访问时间的限制，完全由硬件电路实现，其实就是一个硬件哈希表</li>
