@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ashburshui.github.io/"/>
-  <updated>2020-07-08T02:30:04.073Z</updated>
+  <updated>2020-07-08T04:04:07.788Z</updated>
   <id>https://ashburshui.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Missing Semester of Your CS Education</title>
+    <link href="https://ashburshui.github.io/2020/07/08/curriculums/the_missing_semester_of_your_cs_education/"/>
+    <id>https://ashburshui.github.io/2020/07/08/curriculums/the_missing_semester_of_your_cs_education/</id>
+    <published>2020-07-08T04:03:27.000Z</published>
+    <updated>2020-07-08T04:04:07.788Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is what I hope for very long time…<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is what I hope for very long time…&lt;br&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>6.824 Distributed Systems</title>
