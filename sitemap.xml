@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ashburshui.github.io/2018/01/05/algorithms/algorithm_analysis_learning_report/</loc>
+    
+    <lastmod>2020-07-09T13:05:41.562Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ashburshui.github.io/2019/10/26/interview/self_check_card_systems_design/</loc>
     
     <lastmod>2020-07-09T12:31:17.107Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://ashburshui.github.io/2020/05/20/curriculums/6.824_distributed_systems/</loc>
     
     <lastmod>2020-07-08T02:30:04.073Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ashburshui.github.io/2019/07/09/algorithms/algorithm_analysis_learning_report/</loc>
-    
-    <lastmod>2020-01-07T04:30:16.000Z</lastmod>
     
   </url>
   
