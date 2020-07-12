@@ -6,7 +6,8 @@ $(function () {
         'cn',
         'sg',
         'jp',
-        'ca'
+        'ca',
+        'gb'
     ]
 
     const visited_states_in_china = [
