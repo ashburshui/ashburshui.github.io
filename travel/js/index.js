@@ -12,6 +12,8 @@ $(function () {
         'no',
         'se',
         'fi',
+        'pt',
+        'at',
         'nz'
     ]
 
