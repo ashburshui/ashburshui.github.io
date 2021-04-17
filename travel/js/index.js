@@ -13,7 +13,7 @@ $(function () {
         'se',
         'fi',
         'pt',
-        'at',
+        'au',
         'nz'
     ]
 
