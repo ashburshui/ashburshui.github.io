@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ashburshui.github.io/2022/07/12/personal/%E6%8B%BF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%9D%A5feed%E4%B8%8A%E7%BA%A7%E5%91%A2/</loc>
+    
+    <lastmod>2022-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ashburshui.github.io/2022/06/05/reading/books/</loc>
     
     <lastmod>2022-07-08</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>https://ashburshui.github.io/</loc>
-    <lastmod>2022-07-11</lastmod>
+    <lastmod>2022-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
