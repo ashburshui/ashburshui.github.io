@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ashburshui.github.io/2022/06/05/reading/learning/</loc>
+    <loc>https://ashburshui.github.io/2022/06/05/reading/miscellaneous/</loc>
     
-    <lastmod>2022-07-31</lastmod>
+    <lastmod>2022-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
 
   <url>
     <loc>https://ashburshui.github.io/</loc>
-    <lastmod>2022-07-31</lastmod>
+    <lastmod>2022-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
