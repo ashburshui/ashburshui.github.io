@@ -14,7 +14,8 @@ $(function () {
         'fi',
         'pt',
         'au',
-        'nz'
+        'nz',
+        'us',
     ]
 
     const visited_states_in_china = [
