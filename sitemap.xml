@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ashburshui.github.io/2022/06/05/reflection/miscellaneous/</loc>
+    <loc>https://ashburshui.github.io/2020/12/31/reflection/self_check_card/</loc>
     
-    <lastmod>2022-09-15</lastmod>
+    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ashburshui.github.io/2014/12/31/reflection/self_check_card/</loc>
+    <loc>https://ashburshui.github.io/2022/06/05/reflection/%E6%9D%82%E8%AE%B0/</loc>
     
-    <lastmod>2022-08-06</lastmod>
+    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
 
   <url>
     <loc>https://ashburshui.github.io/</loc>
-    <lastmod>2022-09-16</lastmod>
+    <lastmod>2022-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
