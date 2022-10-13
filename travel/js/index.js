@@ -41,6 +41,10 @@ $(function () {
         'jp-os',
     ]
 
+    const visited_states_in_canada = [
+        'ca-on',
+    ]
+
     function getDrilldown(data, visited) {
         $.each(data, function (i) {
             this.value = visited.indexOf(this.properties[property]);
@@ -55,6 +59,8 @@ $(function () {
 
     const jp_data = Highcharts.geojson(Highcharts.maps['countries/jp/jp-all']);
 
+    const ca_data = Highcharts.geojson(Highcharts.maps['countries/ca/ca-all']);
+
     // Set drilldown pointers
     $.each(world_data, function (i) {
 
@@ -68,6 +74,11 @@ $(function () {
                 jp_data,
                 visited_states_in_japan);
             this.drilldownLabel = 'Japan';
+        } else if (this.properties[property] === 'ca') {
+            this.drilldown = getDrilldown(
+                ca_data,
+                visited_states_in_canada);
+            this.drilldownLabel = 'Canada';
         }
 
         this.value = visited_countries.indexOf(this.properties[property]);
