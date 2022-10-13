@@ -18,29 +18,6 @@ $(function () {
         'us',
     ]
 
-    const visited_states_in_china = [
-        'cn-bj',
-        'cn-sh',
-        'cn-zj',
-        'cn-fj',
-        'cn-gd',
-        'cn-sa',
-        'cn-hu',
-        'cn-hn',
-        'cn-sd',
-        'cn-sc',
-        'cn-js',
-        'cn-sx',
-        'cn-he',
-        'cn-jx'
-    ]
-
-    const visited_states_in_japan = [
-        'jp-tk',
-        'jp-ky',
-        'jp-os',
-    ]
-
     function getDrilldown(data, visited) {
         $.each(data, function (i) {
             this.value = visited.indexOf(this.properties[property]);
@@ -65,18 +42,38 @@ $(function () {
         if (this.properties[property] === 'cn') {
             this.drilldown = getDrilldown(
                 cn_data,
-                visited_states_in_china);
+                [
+                    'cn-bj',
+                    'cn-sh',
+                    'cn-zj',
+                    'cn-fj',
+                    'cn-gd',
+                    'cn-sa',
+                    'cn-hu',
+                    'cn-hn',
+                    'cn-sd',
+                    'cn-sc',
+                    'cn-js',
+                    'cn-sx',
+                    'cn-he',
+                    'cn-jx'
+                ]);
             this.drilldownLabel = 'China';
         } else if (this.properties[property] === 'jp') {
             this.drilldown = getDrilldown(
                 jp_data,
-                visited_states_in_japan);
+                [
+                    'jp-tk',
+                    'jp-ky',
+                    'jp-os',
+                ]);
             this.drilldownLabel = 'Japan';
         } else if (this.properties[property] === 'ca') {
             this.drilldown = getDrilldown(
                 ca_data,
                 [
                     'ca-on',
+                    'ca-bc',
                 ]);
             this.drilldownLabel = 'Canada';
         } else if (this.properties[property] === 'us') {
