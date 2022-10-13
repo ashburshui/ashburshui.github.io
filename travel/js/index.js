@@ -85,7 +85,7 @@ $(function () {
                 [
                     'us-ny',
                 ]);
-            this.drilldownLabel = 'USA';
+            this.drilldownLabel = 'United States of America';
         }
 
         this.value = visited_countries.indexOf(this.properties[property]);
