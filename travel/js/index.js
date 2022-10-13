@@ -32,7 +32,7 @@ $(function () {
 
     const jp_data = Highcharts.geojson(Highcharts.maps['countries/jp/jp-all']);
 
-    // NA
+    // North America
     const ca_data = Highcharts.geojson(Highcharts.maps['countries/ca/ca-all']);
     const us_data = Highcharts.geojson(Highcharts.maps['countries/us/us-all']);
 
