@@ -81,6 +81,7 @@ $(function () {
                 us_data,
                 [
                     'us-ny',
+                    'us-tx'
                 ]);
             this.drilldownLabel = 'United States of America';
         }
