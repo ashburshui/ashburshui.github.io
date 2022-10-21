@@ -74,6 +74,7 @@ $(function () {
                 [
                     'ca-on',
                     'ca-bc',
+                    'ca-ab',
                 ]);
             this.drilldownLabel = 'Canada';
         } else if (this.properties[property] === 'us') {
