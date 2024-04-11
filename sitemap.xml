@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ashburshui.github.io/2023/04/30/education/day_in_day_out_never_take_it_for_granted/</loc>
+    
+    <lastmod>2024-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ashburshui.github.io/2024/03/31/relationship/%E6%87%82%E5%BE%97%E6%AC%A3%E8%B5%8F_%E5%AF%BB%E6%89%BE%E7%88%B1%E5%A5%BD/</loc>
     
     <lastmod>2024-04-01</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://ashburshui.github.io/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
