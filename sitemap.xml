@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ashburshui.github.io/2024/12/31/education/legitimate_suffering_day_in_day_out/</loc>
+    
+    <lastmod>2024-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ashburshui.github.io/2024/03/30/education/principles/</loc>
     
     <lastmod>2024-06-23</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://ashburshui.github.io/2024/01/31/relationship/%E6%8B%A5%E6%9C%89%E4%BA%86%E8%80%90%E5%BF%83_%E5%92%8C%E5%8F%91%E7%8E%B0%E7%BE%8E%E7%9A%84%E7%9C%BC%E7%9D%9B/</loc>
     
     <lastmod>2024-04-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashburshui.github.io/2024/12/31/education/legitimate_suffering_day_in_day_out/</loc>
-    
-    <lastmod>2024-04-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://ashburshui.github.io/</loc>
-    <lastmod>2024-06-23</lastmod>
+    <lastmod>2024-06-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
