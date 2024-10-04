@@ -6,7 +6,7 @@
   <link href="https://ashburshui.github.io/atom.xml" rel="self"/>
   
   <link href="https://ashburshui.github.io/"/>
-  <updated>2024-08-13T16:54:51.370Z</updated>
+  <updated>2024-10-04T02:43:48.257Z</updated>
   <id>https://ashburshui.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Curated Papers</title>
+    <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers/"/>
+    <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers/</id>
+    <published>2024-10-02T16:00:00.000Z</published>
+    <updated>2024-10-04T02:43:48.257Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Broaden my education… do some research<br><span id="more"></span></p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">-</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</td></tr></tbody></table></div>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Broaden my education… do some research&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>手册</title>
@@ -53,8 +71,8 @@
   
   <entry>
     <title>阅读、技能 ➡️ 品味的养成</title>
-    <link href="https://ashburshui.github.io/2022/12/31/work/%E9%98%85%E8%AF%BB_%E6%8A%80%E8%83%BD_%E5%93%81%E5%91%B3%E7%9A%84%E5%85%BB%E6%88%90/"/>
-    <id>https://ashburshui.github.io/2022/12/31/work/%E9%98%85%E8%AF%BB_%E6%8A%80%E8%83%BD_%E5%93%81%E5%91%B3%E7%9A%84%E5%85%BB%E6%88%90/</id>
+    <link href="https://ashburshui.github.io/2022/12/31/humble/%E9%98%85%E8%AF%BB_%E6%8A%80%E8%83%BD_%E5%93%81%E5%91%B3%E7%9A%84%E5%85%BB%E6%88%90/"/>
+    <id>https://ashburshui.github.io/2022/12/31/humble/%E9%98%85%E8%AF%BB_%E6%8A%80%E8%83%BD_%E5%93%81%E5%91%B3%E7%9A%84%E5%85%BB%E6%88%90/</id>
     <published>2022-12-31T16:00:00.000Z</published>
     <updated>2024-08-02T13:40:18.242Z</updated>
     
