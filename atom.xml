@@ -35,24 +35,6 @@
   </entry>
   
   <entry>
-    <title>Curated Papers/Systems</title>
-    <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/"/>
-    <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/</id>
-    <published>2024-10-02T16:00:00.000Z</published>
-    <updated>2024-10-04T19:06:59.338Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>Broaden my education… it’s interesting to do some research.<br><span id="more"></span></p><p>Thought process and scope,</p></blockquote><p>Papers Colection:</p><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">-</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</td></tr><tr><td style="text-align:left">2</td><td style="text-align:left">MapReduce: Simplified Data Processing on Large Clusters</td></tr><tr><td style="text-align:left">3</td><td style="text-align:left">Dynamo: Amazon’s Highly Available Key-value Store</td></tr></tbody></table></div><p>Referece: <a href="https://github.com/rxin/db-readings">https://github.com/rxin/db-readings</a></p><blockquote><p>Part I, System Design</p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">Quiz</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left"><del>Design Pastebin.com (or Bit.ly)</del></td></tr><tr><td style="text-align:left">2</td><td style="text-align:left"><del>Design the Twitter timeline and search (or Facebook feed and search)</del></td></tr><tr><td style="text-align:left">3</td><td style="text-align:left"><del>Design a web crawler</del></td></tr><tr><td style="text-align:left">4</td><td style="text-align:left"><del>Design Mint.com</del></td></tr><tr><td style="text-align:left">5</td><td style="text-align:left"><del>Design the data structures for a social network</del></td></tr><tr><td style="text-align:left">6</td><td style="text-align:left">Design a key-value store for a search engine</td></tr><tr><td style="text-align:left">7</td><td style="text-align:left"><del>Design Amazon’s sales ranking by category feature</del></td></tr><tr><td style="text-align:left">8</td><td style="text-align:left">Design a system that scales to millions of users on AWS</td></tr></tbody></table></div><blockquote><p>Part II, ML Related</p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">Quiz</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">-</td></tr></tbody></table></div>]]></content>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Broaden my education… it’s interesting to do some research.&lt;br&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Curated CourseWorks</title>
     <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/"/>
     <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/</id>
@@ -71,13 +53,31 @@
   </entry>
   
   <entry>
+    <title>Curated Papers/Systems</title>
+    <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/"/>
+    <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/</id>
+    <published>2024-10-02T16:00:00.000Z</published>
+    <updated>2024-10-04T19:06:59.338Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Broaden my education… it’s interesting to do some research.<br><span id="more"></span></p><p>Thought process and scope,</p></blockquote><p>Papers Colection:</p><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">-</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</td></tr><tr><td style="text-align:left">2</td><td style="text-align:left">MapReduce: Simplified Data Processing on Large Clusters</td></tr><tr><td style="text-align:left">3</td><td style="text-align:left">Dynamo: Amazon’s Highly Available Key-value Store</td></tr></tbody></table></div><p>Referece: <a href="https://github.com/rxin/db-readings">https://github.com/rxin/db-readings</a></p><blockquote><p>Part I, System Design</p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">Quiz</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left"><del>Design Pastebin.com (or Bit.ly)</del></td></tr><tr><td style="text-align:left">2</td><td style="text-align:left"><del>Design the Twitter timeline and search (or Facebook feed and search)</del></td></tr><tr><td style="text-align:left">3</td><td style="text-align:left"><del>Design a web crawler</del></td></tr><tr><td style="text-align:left">4</td><td style="text-align:left"><del>Design Mint.com</del></td></tr><tr><td style="text-align:left">5</td><td style="text-align:left"><del>Design the data structures for a social network</del></td></tr><tr><td style="text-align:left">6</td><td style="text-align:left">Design a key-value store for a search engine</td></tr><tr><td style="text-align:left">7</td><td style="text-align:left"><del>Design Amazon’s sales ranking by category feature</del></td></tr><tr><td style="text-align:left">8</td><td style="text-align:left">Design a system that scales to millions of users on AWS</td></tr></tbody></table></div><blockquote><p>Part II, ML Related</p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">Quiz</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">-</td></tr></tbody></table></div>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Broaden my education… it’s interesting to do some research.&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>总体思考</title>
     <link href="https://ashburshui.github.io/2024/09/30/humble/%E6%80%BB%E4%BD%93%E6%80%9D%E8%80%83/"/>
     <id>https://ashburshui.github.io/2024/09/30/humble/%E6%80%BB%E4%BD%93%E6%80%9D%E8%80%83/</id>
     <published>2024-09-30T16:00:00.000Z</published>
-    <updated>2024-10-04T21:24:32.210Z</updated>
+    <updated>2024-10-04T21:26:40.894Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>抓住朦胧的直觉，多尝试，多体验。<br><span id="more"></span></p></blockquote><p><img src="/blog-images/tree.jpg" alt=""></p><p><mark>对人和事情，要真正地感兴趣；不以物喜，不以己悲，始终重要的是此时此刻</mark><br><mark>DON’T BE RUDE, SHOW UP!</mark></p><blockquote><p><mark>Do the work</mark></p><ul><li><a href="https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/">CourseWorks</a></li><li><a href="https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/">Papers &amp; Systems</a></li><li><a href="https://ashburshui.github.io/2024/10/03/humble/Curated%20Crafts:Code/">Crafts &amp; Code</a></li><li>Some resume/project based reflection rounds, such as every 3 months.</li></ul><p><mark>Deal with people</mark></p><ul><li>实际上，一旦我们对自我之外的人和事产生了真实的兴趣，隐藏在自我克制信条里的自我与世界的对立就消失了。这种兴趣让人感觉自己是生命之流的一部分，而不只是一个坚硬、单独的个体，像一个台球，除了碰撞，和其他实体没有任何关系。</li><li><a href="https://ashburshui.github.io/2023/01/30/love/A%20Stoic%20Inner%20Power/">Stoic</a></li><li><a href="https://ryanseamons.com/no-one-owes-you-anything/">LETTER I.</a></li><li><a href="https://isha.sadhguru.org/en/wisdom/article/karma-quotes">LETTER II.</a></li></ul><p><mark>Listen to body(guts)</mark></p><ul><li><a href="https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness">人生中什么事儿最重要？</a></li><li>有了compass，就不在错误的事情上面找认同了。</li><li>多写点东西。</li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>抓住朦胧的直觉，多尝试，多体验。<br><span id="more"></span></p></blockquote><p><img src="/blog-images/tree.jpg" alt=""></p><p><mark>对人和事情，要真正地感兴趣；不以物喜，不以己悲，始终重要的是此时此刻</mark><br><mark>DON’T BE RUDE, SHOW UP!</mark></p><blockquote><p><mark>Do the work</mark></p><ul><li><a href="https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/">CourseWorks</a></li><li><a href="https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/">Papers &amp; Systems</a></li><li><a href="https://ashburshui.github.io/2024/10/03/humble/Curated%20Crafts:Code/">Crafts &amp; Code</a></li><li>Some resume/project based reflection rounds, such as every 3 months，少一点妄想。</li></ul><p><mark>Deal with people</mark></p><ul><li>实际上，一旦我们对自我之外的人和事产生了真实的兴趣，隐藏在自我克制信条里的自我与世界的对立就消失了。这种兴趣让人感觉自己是生命之流的一部分，而不只是一个坚硬、单独的个体，像一个台球，除了碰撞，和其他实体没有任何关系。</li><li><a href="https://ashburshui.github.io/2023/01/30/love/A%20Stoic%20Inner%20Power/">Stoic</a></li><li><a href="https://ryanseamons.com/no-one-owes-you-anything/">LETTER I.</a></li><li><a href="https://isha.sadhguru.org/en/wisdom/article/karma-quotes">LETTER II.</a></li></ul><p><mark>Listen to body(guts)</mark></p><ul><li><a href="https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness">人生中什么事儿最重要？</a></li><li>有了compass，就不在错误的事情上面找认同了。</li><li>多写点东西。</li></ul></blockquote>]]></content>
     
     
     <summary type="html">&lt;blockquote&gt;
