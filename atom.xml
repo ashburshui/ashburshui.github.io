@@ -6,7 +6,7 @@
   <link href="https://ashburshui.github.io/atom.xml" rel="self"/>
   
   <link href="https://ashburshui.github.io/"/>
-  <updated>2024-11-29T23:24:20.307Z</updated>
+  <updated>2024-11-29T23:31:14.126Z</updated>
   <id>https://ashburshui.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://ashburshui.github.io/2025/05/31/write/%E8%87%AA%E5%B7%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%8F%97/"/>
     <id>https://ashburshui.github.io/2025/05/31/write/%E8%87%AA%E5%B7%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%8F%97/</id>
     <published>2025-05-31T16:00:00.000Z</published>
-    <updated>2024-11-29T23:24:20.307Z</updated>
+    <updated>2024-11-29T23:31:14.126Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>Confront/Fall Forward/实践一次，勇气就增强一分，愚昧和恐惧，麻木就相应减少一分。<br><span id="more"></span></p></blockquote><p>这是唯一的办法。<br>思考一下总的思路是什么</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>Confront/Fall Forward/实践一次，勇气就增强一分，愚昧和恐惧，麻木就相应减少一分。<br><span id="more"></span></p></blockquote><p>这是唯一的办法。<br>思考一下总的思路是什么，最大的考验就是怒火/fuel/stress混合的时候，静下来，20mins gym + write down your issues…</p>]]></content>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -197,24 +197,6 @@
   </entry>
   
   <entry>
-    <title>Curated CourseWorks</title>
-    <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/"/>
-    <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/</id>
-    <published>2024-10-02T16:00:00.000Z</published>
-    <updated>2024-10-06T23:43:32.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>Again, to broaden my education… it’s interesting to do some hands-on labs, reading is about the contexts.<br><span id="more"></span></p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">-</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">The Missing Semester of Your CS Education</td></tr><tr><td style="text-align:left">2</td><td style="text-align:left">15-213/15-513/14-513 Introduction to Computer Systems (ICS)</td></tr><tr><td style="text-align:left">3</td><td style="text-align:left">-</td></tr></tbody></table></div><p>Tracker is here,</p><p><a href="https://conanhujinming.github.io/comments-for-awesome-courses/">名校公开课程评价网</a></p><p>Some others to add,</p><p><a href="https://dlsyscourse.org/">https://dlsyscourse.org/</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Again, to broaden my education… it’s interesting to do some hands-on labs, reading is about the contexts.&lt;br&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Curated Papers/Systems</title>
     <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/"/>
     <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20Papers:Systems/</id>
@@ -226,6 +208,24 @@
     
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Broaden my education… it’s interesting to do some research.&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Curated CourseWorks</title>
+    <link href="https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/"/>
+    <id>https://ashburshui.github.io/2024/10/02/humble/Curated%20CourseWorks/</id>
+    <published>2024-10-02T16:00:00.000Z</published>
+    <updated>2024-10-06T23:43:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Again, to broaden my education… it’s interesting to do some hands-on labs, reading is about the contexts.<br><span id="more"></span></p></blockquote><div class="table-container"><table><thead><tr><th style="text-align:left">No.</th><th style="text-align:left">-</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">The Missing Semester of Your CS Education</td></tr><tr><td style="text-align:left">2</td><td style="text-align:left">15-213/15-513/14-513 Introduction to Computer Systems (ICS)</td></tr><tr><td style="text-align:left">3</td><td style="text-align:left">-</td></tr></tbody></table></div><p>Tracker is here,</p><p><a href="https://conanhujinming.github.io/comments-for-awesome-courses/">名校公开课程评价网</a></p><p>Some others to add,</p><p><a href="https://dlsyscourse.org/">https://dlsyscourse.org/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Again, to broaden my education… it’s interesting to do some hands-on labs, reading is about the contexts.&lt;br&gt;</summary>
     
     
     
