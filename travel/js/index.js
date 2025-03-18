@@ -123,7 +123,7 @@ $(function () {
             }
         },
         title: {
-            text: 'Around the world!!',
+            text: 'See the world!，珍惜机会，怀着诗意和感恩的心，打量这缤纷的世界',
         },
 
         subtitle: {
