@@ -123,11 +123,11 @@ $(function () {
             }
         },
         title: {
-            text: 'See the world!，珍惜机会，怀着诗意和感恩的心，打量这缤纷的世界',
+            text: '"This too shall pass"',
         },
 
         subtitle: {
-            text: 'World',
+            text: '珍惜机会，怀着诗意和感恩的心，打量这缤纷的世界',
         },
 
         mapNavigation: {
