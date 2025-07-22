@@ -123,11 +123,11 @@ $(function () {
             }
         },
         title: {
-            text: '"This too shall pass"，功不唐捐！',
+            text: '功不唐捐',
         },
 
         subtitle: {
-            text: '珍惜机会，怀着感恩的心，于心安处诗意打量这缤纷世界',
+            text: '诗意打量世界',
         },
 
         mapNavigation: {
