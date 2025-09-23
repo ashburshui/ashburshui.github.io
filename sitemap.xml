@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ashburshui.github.io/2025/08/15/session/micro_sessions/</loc>
+    <loc>https://ashburshui.github.io/2028/08/14/%22life%22%20work/$1000_lesson/</loc>
+    
+    <lastmod>2025-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashburshui.github.io/2025/08/14/session/micro_sessions/</loc>
+    
+    <lastmod>2025-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashburshui.github.io/2030/12/30/%22life%22%20work/Take%20%22Risks%22/</loc>
     
     <lastmod>2025-09-20</lastmod>
     
@@ -11,25 +29,7 @@
   </url>
   
   <url>
-    <loc>https://ashburshui.github.io/2030/12/31/%22life%22%20work/Take%20%22Risks%22/</loc>
-    
-    <lastmod>2025-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashburshui.github.io/2028/08/15/%22life%22%20work/$1000_lesson/</loc>
-    
-    <lastmod>2025-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashburshui.github.io/2024/10/04/%22life%22%20work/%E5%B9%B2%E6%B4%BB/</loc>
+    <loc>https://ashburshui.github.io/2024/10/03/%22life%22%20work/%E5%B9%B2%E6%B4%BB/</loc>
     
     <lastmod>2025-07-22</lastmod>
     
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://ashburshui.github.io/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
